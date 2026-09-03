@@ -1,0 +1,14 @@
+h1{
+    border-style: solid;
+    border-width: 5px;
+    border-color:blueviolet;
+    border-radius: 10px;
+}
+
+p{
+    border-top : 5px solid hotpink;
+    border-bottom: 5px, solid rgb(254, 30, 18);
+    border-left: 5px solid rgb(246, 246, 30);
+    border-right: 5px solid rgb(134, 245, 74);
+    border-radius: 6px;
+}
