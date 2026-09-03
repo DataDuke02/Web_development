@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+}
+.box{
+    border: 5px;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+#box1{
+    background-color: hsl(0, 71%, 51%);
+}
+#box2{
+    background-color: hsl(185, 93%, 52%);
+    margin-left: 50px;
+}

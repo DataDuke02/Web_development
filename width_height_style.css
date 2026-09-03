@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    background-color: dimgray;
+    height: 100vh;
+}
+.Box{
+    background-color: aliceblue;
+    border: 2px solid;
+    padding: 15px;
+    height: auto;
+    width: 50%;
+    float: left;
+    text-align: center;
+    min-height: 50%;
+}
