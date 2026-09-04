@@ -21,7 +21,7 @@ p::selection{
 #banana::after{
     content: "🍌";
 }
-#fruit li:marker{
+#fruit li::marker{
     content: "✔️";
     color: green;
     font-size: 1.2em;
