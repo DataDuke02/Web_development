@@ -9,9 +9,9 @@ age+=1;
 console.log(age, typeof age);
 */
 
-let x = "Pizza";
+let x = "25";
 let y = "Pizza";
-let z = "Pizza";
+let z = true;
 
 x = Number(x);
 y = String(y);
