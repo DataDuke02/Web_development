@@ -71,19 +71,3 @@ else{
     console.log("You must be 16+ to have a license");
 }
 */
-
-if(age >= 100){
-    console.log("your are TOO OLD to enter this site")
-}
-else if(age == 0){
-    console.log("You were just born");
-}
-else if(age >= 18){
-    console.log("Your are old enough to enter this site!");
-}
-else if(age < 0){
-    console.log("Your age can't be below 0");
-}
-else{
-    console.log("you must be 18+ to enter this site!");
-}
