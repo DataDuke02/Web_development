@@ -1,7 +1,5 @@
 // THE DICE ROLLER GAME PROGRAM
 
-
-
 function rollDice(){
     const numOfDice = document.getElementById("numOfDice").value;
     const diceResult = document.getElementById("diceResult");
