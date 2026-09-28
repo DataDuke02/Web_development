@@ -36,5 +36,8 @@ function displayConsole(result){
     console.log(result);
 }
 
-sum(displayConsole, 1, 4);
+sum(displayPage, 1, 4);
 
+function displayPage(result){
+    document.getElementById("myH1").textContent = result;
+}
