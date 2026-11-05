@@ -54,8 +54,8 @@ const person1 = new Person("Spongebob", 30, "124 Conch st.",
                                             "int. Waters");
 
 const person2 = new Person("Patrick", 34, "128 Conch st.", 
-                                            "Bikini Bottom", 
-                                            "int. Waters");
+                                           "Bikini Bottom", 
+                                           "int. Waters");
 
 const person3 = new Person("Squidward", 42, "126 Conch st.", 
                                             "Bikini Bottom", 
