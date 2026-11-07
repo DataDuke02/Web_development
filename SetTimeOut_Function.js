@@ -15,6 +15,12 @@ setTimeout(sayHello, 3000);
 */
 
 //setTimeout(function(){window.alert("Hello")},3000);
-const timeOutId = setTimeout(() => window.alert("Hello"), 3000);
 
+/*
+const timeOutId = setTimeout(() => window.alert("Hello"), 3000);
 clearTimeout(timeOutId);
+*/
+
+function startTimer(){
+    setTimeout(() => window.alert("Hello"), 3000);
+}
